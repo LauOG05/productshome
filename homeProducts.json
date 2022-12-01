@@ -464,6 +464,10 @@
             "img": "imgs/cupcakes8.jpg"
             
         },
+         {
+            "img": "../imgs/cupcakes9.jpg"
+            
+        },
        
         {
             "img": "imgs/cupcakes10.jpg"
@@ -477,5 +481,13 @@
             "img": "imgs/cupcakes12.jpg"
             
         }
+         {
+            "img": "../imgs/cupcakes13.jpg"
+            
+        },
+        {
+            "img": "../imgs/cupcakes14.jpg"
+            
+        },
     ]
 }
